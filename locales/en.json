@@ -1,0 +1,342 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "hero": {
+      "title": "Quality Goods & Digital Commerce Services",
+      "subtitle": "Everyday products and practical digital solutions for modern customers",
+      "ctaPrimary": "Shop Now",
+      "ctaSecondary": "Our Services"
+    },
+    "whoWeAre": {
+      "title": "Who We Are",
+      "layer1": "MENARUSH Commerce is a technology-enabled e-commerce company offering consumer goods and digital services. We operate our own online storefront and serve customers directly through secure and trusted payment methods.",
+      "layer2": "Our mission is to deliver quality products and practical digital commerce solutions to customers across the region."
+    },
+    "whatWeOffer": {
+      "title": "What We Offer",
+      "items": [
+        "Mobile accessories and tech products",
+        "Fashion and jewelry items",
+        "Lifestyle and apparel goods",
+        "Digital commerce services and support"
+      ]
+    },
+    "categories": {
+      "title": "Product Categories",
+      "items": [
+        "Mobile Accessories",
+        "Jewelry & Fashion",
+        "Apparel & Lifestyle",
+        "Digital Services"
+      ]
+    },
+    "whyMenarush": {
+      "title": "Why Choose MENARUSH",
+      "items": [
+        "Quality products and services",
+        "Secure and trusted checkout",
+        "Direct customer service",
+        "Reliable delivery and support"
+      ]
+    }
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Browse our selection of quality products",
+    "categories": {
+      "mobile": {
+        "title": "Mobile Accessories",
+        "description": "Essential accessories for your mobile devices"
+      },
+      "jewelry": {
+        "title": "Jewelry & Accessories",
+        "description": "Elegant jewelry and fashion accessories"
+      },
+      "apparel": {
+        "title": "Apparel & Fashion",
+        "description": "Stylish clothing and fashion items"
+      },
+      "lifestyle": {
+        "title": "Lifestyle Goods",
+        "description": "Bags, lifestyle products, and everyday essentials"
+      }
+    },
+    "addToCart": "Add to Cart",
+    "price": "Price",
+    "comingSoon": "More products coming soon"
+  },
+  "about": {
+    "title": "About Us",
+    "overview": {
+      "title": "Company Overview",
+      "layer1": "MENARUSH Commerce is a technology-driven e-commerce company focused on delivering quality consumer products and digital commerce services. We operate our own online storefront and serve customers directly through secure and trusted payment methods.",
+      "layer2": "Our commitment is to provide exceptional products and services while maintaining the highest standards of customer satisfaction and operational excellence."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To deliver quality consumer goods and practical digital commerce solutions, making everyday products and services accessible to customers through a seamless and secure shopping experience."
+    },
+    "values": {
+      "title": "Our Values",
+      "items": [
+        "Quality first in all products and services",
+        "Customer-centric approach",
+        "Secure and reliable operations",
+        "Continuous improvement and innovation"
+      ]
+    },
+    "different": {
+      "title": "What Makes Us Different",
+      "items": [
+        "Direct-to-customer service model",
+        "Quality-focused product selection",
+        "Secure payment processing",
+        "Reliable delivery and support"
+      ]
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Digital commerce services and support",
+    "digital": {
+      "title": "Digital Commerce Services",
+      "items": [
+        "Online store setup and customization",
+        "Product catalog management support",
+        "E-commerce technical assistance",
+        "Digital storefront optimization"
+      ]
+    },
+    "support": {
+      "title": "Technical Support",
+      "items": [
+        "E-commerce platform assistance",
+        "Storefront customization help",
+        "Technical troubleshooting",
+        "Ongoing maintenance support"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with us for inquiries about our products and services.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company (Optional)",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "MENARUSH Commerce - Quality goods and digital commerce services.",
+    "legal": "Legal",
+    "registered": "E-commerce company",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "location": "Egypt · Cairo",
+    "payment": "Payments are securely processed by trusted third-party providers.",
+    "egypt": "Egypt"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated",
+    "lastUpdatedDate": "January 10, 2025",
+    "intro": "MENARUSH Commerce (\"MENARUSH\", \"we\", \"our\", or \"us\") is a technology-enabled e-commerce company. We are committed to protecting the privacy and personal data of our customers and website visitors. This Privacy Policy explains how we collect, use, disclose, and protect information when you visit our website, make purchases, or interact with our services.",
+    "sections": [
+      {
+        "title": "1. Information We Collect",
+        "content": "We may collect the following types of information:",
+        "items": [
+          "Name and contact information",
+          "Shipping and billing addresses",
+          "Email address and phone number",
+          "Order information and purchase history",
+          "Information voluntarily submitted through contact forms or inquiries"
+        ]
+      },
+      {
+        "title": "2. How We Use Information",
+        "content": "We use collected information for the following purposes:",
+        "items": [
+          "Processing and fulfilling orders",
+          "Communicating with customers about orders and services",
+          "Providing customer support",
+          "Improving our website and service quality",
+          "Sending order confirmations and updates",
+          "Ensuring compliance with legal and regulatory obligations"
+        ]
+      },
+      {
+        "title": "3. Payment Information",
+        "content": [
+          "Payments are processed via third-party payment service providers.",
+          "MENARUSH Commerce does not store or process payment card information directly.",
+          "Payment transactions are handled exclusively by licensed payment providers and financial institutions.",
+          "We do not have direct access to your payment card details."
+        ]
+      },
+      {
+        "title": "4. Data Sharing & Disclosure",
+        "content": "We do not sell, rent, or trade personal data. Information may be shared only when necessary:",
+        "items": [
+          "With trusted service providers for order fulfillment and delivery",
+          "With payment processors for transaction processing",
+          "To comply with legal obligations or regulatory requests",
+          "To protect our legal rights or prevent misuse of our services"
+        ]
+      },
+      {
+        "title": "5. Data Security",
+        "content": "We implement reasonable technical and organizational measures to protect information against unauthorized access, loss, or misuse. While no system can guarantee absolute security, we strive to maintain industry-appropriate safeguards."
+      },
+      {
+        "title": "6. Data Retention",
+        "content": "We retain personal data only for as long as necessary to fulfill business purposes, process orders, or comply with legal requirements. When information is no longer required, it is securely deleted or anonymized."
+      },
+      {
+        "title": "7. Your Rights",
+        "content": "Depending on applicable laws, you may have the right to:",
+        "items": [
+          "Request access to your personal data",
+          "Request correction or deletion of inaccurate information",
+          "Object to certain data processing activities",
+          "Request a copy of your data"
+        ]
+      },
+      {
+        "title": "8. Cookies & Analytics",
+        "content": "Our website may use cookies or analytics tools for website functionality, performance monitoring, and to improve user experience."
+      },
+      {
+        "title": "9. Changes to This Policy",
+        "content": "We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date."
+      }
+    ],
+    "contact": {
+      "title": "10. Contact Information",
+      "content": "For privacy-related inquiries, please contact:",
+      "email": "Email",
+      "country": "Country",
+      "egypt": "Egypt"
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated",
+    "lastUpdatedDate": "January 10, 2025",
+    "intro": "These Terms of Service (\"Terms\") govern your access to and use of the website operated by MENARUSH Commerce (\"MENARUSH\", \"we\", \"our\", or \"us\").",
+    "intro2": "By accessing or using this website, you agree to be bound by these Terms.",
+    "sections": [
+      {
+        "title": "1. Introduction",
+        "content": [
+          "MENARUSH Commerce is a technology-enabled e-commerce company offering consumer goods and digital services.",
+          "Our website is intended to provide information about our products and services, and to facilitate online purchases.",
+          "These Terms apply to all purchases and use of our website and services."
+        ]
+      },
+      {
+        "title": "2. Products and Services",
+        "content": [
+          "We offer consumer goods and digital commerce services through our online storefront.",
+          "Product descriptions, images, and prices are subject to change without notice.",
+          "We reserve the right to limit quantities, refuse orders, or discontinue products at any time.",
+          "All products are subject to availability."
+        ]
+      },
+      {
+        "title": "3. Orders and Payment",
+        "content": [
+          "By placing an order, you agree to provide accurate and complete information.",
+          "Payments are processed via third-party payment service providers.",
+          "MENARUSH Commerce does not store or process payment card information directly.",
+          "We reserve the right to refuse or cancel any order at our discretion."
+        ],
+        "items": [
+          "Order confirmation does not guarantee product availability.",
+          "Prices are subject to change without notice.",
+          "Payment must be received before order processing and shipment."
+        ]
+      },
+      {
+        "title": "4. Shipping and Delivery",
+        "content": [
+          "Shipping terms and delivery times will be communicated upon order confirmation.",
+          "We are not responsible for delays caused by shipping carriers or customs.",
+          "Risk of loss and title pass to you upon delivery to the carrier."
+        ]
+      },
+      {
+        "title": "5. Returns and Refunds",
+        "content": [
+          "Return and refund policies will be specified for each product category.",
+          "Customers must contact us within the specified timeframe to initiate returns.",
+          "Refunds will be processed according to our refund policy and may take several business days."
+        ]
+      },
+      {
+        "title": "6. Digital Services",
+        "content": [
+          "Digital services are provided as described at the time of purchase.",
+          "Delivery methods for digital services will be specified for each service.",
+          "Refund policies for digital services may differ from physical products."
+        ]
+      },
+      {
+        "title": "7. Use of Website",
+        "content": "You agree to use this website only for lawful purposes and in accordance with these Terms.",
+        "prohibited": {
+          "intro": "You may not:",
+          "items": [
+            "Use the website for unlawful, misleading, or fraudulent activities",
+            "Attempt to gain unauthorized access to systems or data",
+            "Interfere with the operation or security of the website",
+            "Copy or reproduce any content without permission"
+          ]
+        }
+      },
+      {
+        "title": "8. Limitation of Liability",
+        "content": "To the maximum extent permitted by applicable law:",
+        "items": [
+          "MENARUSH shall not be liable for any indirect, incidental, or consequential damages.",
+          "Our total liability shall not exceed the amount paid for the specific product or service.",
+          "We make no warranties regarding product availability or delivery times beyond our control."
+        ]
+      },
+      {
+        "title": "9. Intellectual Property",
+        "content": [
+          "All content on this website, including text, graphics, logos, and design elements, is the property of MENARUSH Commerce or its licensors.",
+          "You may not reproduce, distribute, or use any content without prior written consent."
+        ]
+      },
+      {
+        "title": "10. Governing Law",
+        "content": "These Terms shall be governed by and construed in accordance with the laws of the Arab Republic of Egypt, without regard to conflict of law principles."
+      },
+      {
+        "title": "11. Changes to These Terms",
+        "content": [
+          "We may update these Terms from time to time.",
+          "Any changes will be posted on this page with an updated revision date. Continued use of the website constitutes acceptance of the revised Terms."
+        ]
+      }
+    ],
+    "contact": {
+      "title": "12. Contact Information",
+      "content": "If you have questions regarding these Terms, please contact:",
+      "email": "Email",
+      "country": "Country",
+      "egypt": "Egypt"
+    }
+  }
+}
