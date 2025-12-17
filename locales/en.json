@@ -1,4 +1,8 @@
 {
+  "common": {
+    "siteName": "MENARUSH Commerce",
+    "slogan": "Quality goods and digital commerce services"
+  },
   "nav": {
     "home": "Home",
     "products": "Products",
@@ -105,6 +109,10 @@
   "services": {
     "title": "Services",
     "subtitle": "Digital commerce services and support",
+    "api": {
+      "title": "API Integration Support",
+      "description": "Secure integration with licensed local payment gateways."
+    },
     "digital": {
       "title": "Digital Commerce Services",
       "items": [
