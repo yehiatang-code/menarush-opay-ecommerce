@@ -108,19 +108,14 @@
   },
   "services": {
     "title": "Services",
-    "subtitle": "Digital commerce services and support",
+    "subtitle": "What we provide",
     "api": {
-      "title": "API Integration Support",
-      "description": "Secure integration with licensed local payment gateways."
+      "title": "API Payments",
+      "description": "Secure and compliant payment APIs"
     },
     "digital": {
-      "title": "Digital Commerce Services",
-      "items": [
-        "Online store setup and customization",
-        "Product catalog management support",
-        "E-commerce technical assistance",
-        "Digital storefront optimization"
-      ]
+      "title": "Digital Payments",
+      "items": ["Cards", "Wallets"]
     },
     "support": {
       "title": "Technical Support",
