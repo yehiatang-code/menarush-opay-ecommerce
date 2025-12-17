@@ -1,9 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    './pages/**/*.{js,ts,jsx,tsx,mdx}',
-    './components/**/*.{js,ts,jsx,tsx,mdx}',
-    './app/**/*.{js,ts,jsx,tsx,mdx}',
+    './app/**/*.{js,ts,jsx,tsx}',
+    './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
     extend: {
@@ -15,8 +14,8 @@ module.exports = {
           border: '#252530',
         },
         accent: {
-          primary: '#4a90e2',
-          secondary: '#5ba3d0',
+          primary: '#6366f1',
+          secondary: '#8b5cf6',
         },
         orange: {
           400: '#fb923c',
@@ -25,7 +24,7 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+        sans: ['Inter', 'system-ui', 'sans-serif'],
         arabic: ['Noto Sans Arabic', 'sans-serif'],
       },
       animation: {
@@ -46,4 +45,3 @@ module.exports = {
   },
   plugins: [],
 }
-

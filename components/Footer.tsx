@@ -58,9 +58,12 @@ export default function Footer({ locale, t }: FooterProps) {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-dark-border">
-          <div className="text-center mb-4">
-            <p className="text-gray-400 text-xs mb-2">
-              {t.footer.payment}
+          <div className="text-center space-y-2 mb-4">
+            <p className="text-gray-400 text-xs font-medium">
+              {t.footer.paymentDisclaimer}
+            </p>
+            <p className="text-gray-500 text-xs">
+              {t.footer.paymentNote}
             </p>
           </div>
           <div className="text-center">

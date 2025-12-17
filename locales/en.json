@@ -138,6 +138,8 @@
     "contact": "Contact",
     "location": "Egypt · Cairo",
     "payment": "Payments are securely processed by trusted third-party providers.",
+    "paymentDisclaimer": "MENARUSH does not provide payment services or hold customer funds.",
+    "paymentNote": "All payments are processed by licensed third-party providers.",
     "egypt": "Egypt"
   },
   "privacy": {
