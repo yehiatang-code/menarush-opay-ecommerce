@@ -15,7 +15,7 @@ export async function generateMetadata({
 
   return {
     title: t.services.title,
-    description: t.services.api.description,
+    description: t.services.subtitle,
     alternates: {
       canonical: `/${locale}/services`,
       languages: {
@@ -48,7 +48,19 @@ export default async function ServicesPage({
           </p>
         </div>
 
-        {/* Digital Commerce Services */}
+        {/* Payment API Integration */}
+        <section className="max-w-6xl mx-auto mb-16 animate-slide-up">
+          <div className="bg-dark-card border border-dark-border rounded-lg p-8">
+            <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6">
+              {t.services.api.title}
+            </h2>
+            <p className="text-gray-300 text-lg leading-relaxed mb-4">
+              {t.services.api.description}
+            </p>
+          </div>
+        </section>
+
+        {/* Digital Services */}
         <section className="max-w-6xl mx-auto mb-16 animate-slide-up">
           <div className="bg-dark-card border border-dark-border rounded-lg p-8">
             <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6">
@@ -56,23 +68,6 @@ export default async function ServicesPage({
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {t.services.digital.items.map((item, index) => (
-                <div key={index} className="flex items-start">
-                  <div className="flex-shrink-0 w-2 h-2 bg-accent-primary rounded-full mt-2 mr-4 rtl:mr-0 rtl:ml-4"></div>
-                  <p className="text-gray-300 text-lg">{item}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* Technical Support */}
-        <section className="max-w-6xl mx-auto mb-16 animate-slide-up">
-          <div className="bg-dark-card border border-dark-border rounded-lg p-8">
-            <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6">
-              {t.services.support.title}
-            </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              {t.services.support.items.map((item, index) => (
                 <div key={index} className="flex items-start">
                   <div className="flex-shrink-0 w-2 h-2 bg-accent-primary rounded-full mt-2 mr-4 rtl:mr-0 rtl:ml-4"></div>
                   <p className="text-gray-300 text-lg">{item}</p>

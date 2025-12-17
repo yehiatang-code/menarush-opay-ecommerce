@@ -107,24 +107,15 @@
     }
   },
   "services": {
-    "title": "Services",
+    "title": "Our Services",
     "subtitle": "What we provide",
     "api": {
-      "title": "API Payments",
-      "description": "Secure and compliant payment APIs"
+      "title": "Payment API Integration",
+      "description": "Secure integration with licensed local payment gateways such as OPay."
     },
     "digital": {
-      "title": "Digital Payments",
-      "items": ["Cards", "Wallets"]
-    },
-    "support": {
-      "title": "Technical Support",
-      "items": [
-        "E-commerce platform assistance",
-        "Storefront customization help",
-        "Technical troubleshooting",
-        "Ongoing maintenance support"
-      ]
+      "title": "Digital Commerce",
+      "items": ["E-commerce", "Payment Processing"]
     }
   },
   "contact": {
