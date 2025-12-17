@@ -76,7 +76,8 @@
     "overview": {
       "title": "Company Overview",
       "layer1": "MENARUSH Commerce is a technology-driven e-commerce company focused on delivering quality consumer products and digital commerce services. We operate our own online storefront and serve customers directly through secure and trusted payment methods.",
-      "layer2": "Our commitment is to provide exceptional products and services while maintaining the highest standards of customer satisfaction and operational excellence."
+      "layer2": "Our commitment is to provide exceptional products and services while maintaining the highest standards of customer satisfaction and operational excellence.",
+      "note": "We operate as a compliant e-commerce technology provider, integrating licensed local payment gateways."
     },
     "mission": {
       "title": "Our Mission",
